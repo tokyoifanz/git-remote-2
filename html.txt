@@ -1,1 +1,2 @@
 selamat datang di gifhub
+saat ini saya dengan belajar tentang cara menggunakan git remote.
